@@ -1,0 +1,1 @@
+Learning Mojo froom the official docs: https://mojolang.org/docs/manual/
